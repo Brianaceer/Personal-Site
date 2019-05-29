@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+  list-style-type: none;
+  padding: 0;
+}
+
+.navbar {
+  background-color: rgb(128,128,128);
+  color: rgb(255,255,255);
+  padding: 15px 0;
+}
+
+.link{
+  color: rgb(255,255,255);
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+}
+
+.link:hover{
+  color: #add8e6;
+}
+
+.container{
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.navitem{
+  display: inline;
+  padding-right: 15px;
+}
+
+.photoborder{
+  border-radius: 50%;
+}
